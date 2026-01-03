@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project structure:-
 
 my\_project/
@@ -146,3 +147,7 @@ Python, PySpark, AWS S3, MySQL, Spark SQL, Parquet
 
 
 
+=======
+# robust-secure-data-engineering-pipeline
+Production-grade data engineering pipeline using AWS, Spark and MySQL
+>>>>>>> 0047d80d617a8c8b6618b40654672d7158e8a0b0
